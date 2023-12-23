@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/magizhan/dotnetsample/dotnet6-crud-api/WebApi.csproj": {}
+    "/Users/magizhan/dotnetsample/dotnet6.crud.api/WebApi.csproj": {}
   },
   "projects": {
-    "/Users/magizhan/dotnetsample/dotnet6-crud-api/WebApi.csproj": {
+    "/Users/magizhan/dotnetsample/dotnet6.crud.api/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/magizhan/dotnetsample/dotnet6-crud-api/WebApi.csproj",
+        "projectUniqueName": "/Users/magizhan/dotnetsample/dotnet6.crud.api/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/magizhan/dotnetsample/dotnet6-crud-api/WebApi.csproj",
+        "projectPath": "/Users/magizhan/dotnetsample/dotnet6.crud.api/WebApi.csproj",
         "packagesPath": "/Users/magizhan/.nuget/packages/",
-        "outputPath": "/Users/magizhan/dotnetsample/dotnet6-crud-api/obj/",
+        "outputPath": "/Users/magizhan/dotnetsample/dotnet6.crud.api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
